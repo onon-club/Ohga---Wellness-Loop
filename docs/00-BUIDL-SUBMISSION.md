@@ -136,7 +136,6 @@ This entire project was developed using **Amazon Kiro IDE** as the primary devel
 - **GitHub Repository**: [https://github.com/onon-club/Ohga---Wellness-Loop](https://github.com/onon-club/Ohga---Wellness-Loop)
 - **APK Download**: [Ohga-Wellness-Loop-arm64.apk](https://github.com/onon-club/Ohga---Wellness-Loop/raw/main/Ohga-Wellness-Loop-arm64.apk)
 - **Demo Video**: [https://youtube.com/shorts/7t8ryUrW_0M](https://youtube.com/shorts/7t8ryUrW_0M)
-- **Live Demo**: https://api.ohga.app (API endpoint)
 
 ---
 

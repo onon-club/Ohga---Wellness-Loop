@@ -86,7 +86,6 @@ See the [docs/](./docs/) folder for:
 
 ## 🔗 Links
 
-- **Live API**: https://api.ohga.app
 - **Demo Video**: https://youtube.com/shorts/7t8ryUrW_0M
 
 ---

@@ -124,7 +124,6 @@ AI-Powered Fitness Ecosystem for Personalized Wellness Journeys
 | GitHub Repo | `https://github.com/onon-club/Ohga---Wellness-Loop` | [x] Ready |
 | APK Download | `https://github.com/onon-club/Ohga---Wellness-Loop/raw/main/Ohga-Wellness-Loop-arm64.apk` | [x] Ready |
 | Video Demo | `https://youtube.com/shorts/7t8ryUrW_0M` | [x] Ready |
-| Live Demo (if any) | `https://api.ohga.app` | [ ] Ready |
 
 ---
 
